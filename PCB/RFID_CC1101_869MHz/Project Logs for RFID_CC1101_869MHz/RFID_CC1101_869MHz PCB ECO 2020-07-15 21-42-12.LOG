@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Q3-E
+Removed Pin From Net: NetName=VCC_3V3 Pin=R15-2
+Removed Pin From Net: NetName=LED_GREEN Pin=U1-42
+Removed Member From Class: ClassName=MCU Member=D5
+Removed Member From Class: ClassName=MCU Member=Q3
+Removed Member From Class: ClassName=MCU Member=R15
+Removed Member From Class: ClassName=MCU Member=R17
+Change Component Description : Designator=U1 Old Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray New Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray
+Added Pin To Net: NetName=LED_GREEN Pin=U1-10
+Change Net Name : Old Net Name=VCC_CC1101 New Net Name=NetC22_2
+Change Net Name : Old Net Name=VCC_CC1190 New Net Name=NetC35_2

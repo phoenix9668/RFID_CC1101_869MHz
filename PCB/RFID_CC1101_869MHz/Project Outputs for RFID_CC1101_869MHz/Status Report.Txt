@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RFID_CC1101_869MHz.PrjPcb]
+   Generated File[RFID_CC1101_869MHz-RoundHoles.TXT]
+   Generated File[RFID_CC1101_869MHz-SlotHoles.TXT]
+   Generated File[RFID_CC1101_869MHz.LDP]
+   Generated File[RFID_CC1101_869MHz.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:53:13 On 2020-07-23

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetR21_1 Pin=R21-1
+Removed Pin From Net: NetName=LNA_EN Pin=R21-2
+Removed Pin From Net: NetName=NetR22_1 Pin=R22-1
+Removed Pin From Net: NetName=PA_EN Pin=R22-2
+Removed Pin From Net: NetName=NetR21_1 Pin=U1-19
+Removed Pin From Net: NetName=NetR22_1 Pin=U1-20
+Removed Pin From Net: NetName=INT1 Pin=U1-29
+Removed Pin From Net: NetName=INT2 Pin=U1-32
+Change Component Description : Designator=U1 Old Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray New Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray
+Change component parameters: Designator = "L1"; Footprint = "INDP3230X10N"; UniqueID = "\QMVBEJGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "inductor, 2-Leads, Body 2.00x1.25mm, IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2¦ÌH ¡À20% at 100kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LNA_EN Pin=R21-1
+Added Pin To Net: NetName=NetR22_1 Pin=R21-2
+Added Pin To Net: NetName=PA_EN Pin=R22-1
+Added Pin To Net: NetName=NetR21_1 Pin=R22-2
+Added Pin To Net: NetName=INT1 Pin=U1-19
+Added Pin To Net: NetName=INT2 Pin=U1-20
+Added Pin To Net: NetName=NetR22_1 Pin=U1-29
+Added Pin To Net: NetName=NetR21_1 Pin=U1-32
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR21_2

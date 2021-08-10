@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GDO2 Pin=U1-13
+Removed Pin From Net: NetName=SPI1_CS Pin=U1-14
+Change Component Description : Designator=U1 Old Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray New Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray
+Change component parameters: Designator = "L1"; Footprint = "INDP3230X10N"; UniqueID = "\QMVBEJGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "inductor, 2-Leads, Body 2.00x1.25mm, IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2¦ÌH ¡À20% at 100kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI1_CS Pin=U1-13
+Added Pin To Net: NetName=GDO2 Pin=U1-14

@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=SOLAR+
+Change Component Designator: OldDesignator=P2 NewDesignator=SOLAR-
+Change Component Designator: OldDesignator=P3 NewDesignator=BAT+
+Change Component Designator: OldDesignator=P4 NewDesignator=BAT-
+Change Component Description : Designator=U1 Old Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray New Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray
+Change component parameters: Designator = "L1"; Footprint = "INDP3230X10N"; UniqueID = "\QMVBEJGW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "inductor, 2-Leads, Body 2.00x1.25mm, IPC Medium Density"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3230"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2¦ÌH ¡À20% at 100kHz"; VariantName = "[No Variations]"

@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: RFID_CC1101_869MHz.PcbDoc   2020-07-23  9:53:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RFID_CC1101_869MHz-RoundHoles.TXT
+ASCII SlotHoles File : RFID_CC1101_869MHz-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T2      8mil (0.2mm)                                              Round             14        PTH        0.00inch (0.00mm)
+T3      8mil (0.203mm)                                            Round             122       PTH        0.00inch (0.00mm)
+T4      10mil (0.254mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      12mil (0.305mm)                                           Round             100       PTH        0.00inch (0.00mm)
+T6      18mil (0.45mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T7      20mil (0.508mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T8      35mil (0.9mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T9      39mil (1mm)                                               Round             1         PTH        0.00inch (0.00mm)
+T10     50mil (1.27mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T11     79mil (2mm)                                               Round             2         PTH        0.00inch (0.00mm)
+T12     24mil (0.62mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              281
+
+Total Processing Time (hh:mm:ss) : 00:00:00

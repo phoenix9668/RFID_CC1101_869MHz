@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\phoen\OneDrive\Work\PCB\RFID_CC1101_869MHz\RFID_CC1101_869MHz.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rfid_cc1101_869mhz-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rfid_cc1101_869mhz-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

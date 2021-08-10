@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=ANT1-2
+Removed Pin From Net: NetName=GND Pin=ANT1-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=GND Pin=C23-2
+Removed Pin From Net: NetName=GND Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=GND Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=GND Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=GND Pin=C49-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=GND Pin=U5-16
+Removed Pin From Net: NetName=GND Pin=U5-19
+Removed Pin From Net: NetName=GND Pin=U5-21
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-9
+Removed Pin From Net: NetName=GND Pin=U6-12
+Removed Pin From Net: NetName=GND Pin=U6-17
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=GND Pin=U7-6
+Change Component Description : Designator=U1 Old Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray New Description=Access line ultra-low-power 32-bit MCU Arm?-based Cortex?-M0+, 64 KB Flash, 8 KB SRAM,2 KB EEPROM, 38 fast I/Os, 48-pin LQFP, -40 to 125 degC, Tray
+Added Component: Designator=L17(RESC2012X07N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PackageDescription"; Value = "Bead Inductor, 2-Leads, Body 2.00x1.25mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220 ¦¸@100MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L17-1
+Added Pin To Net: NetName=AGND Pin=ANT1-2
+Added Pin To Net: NetName=AGND Pin=ANT1-2
+Added Pin To Net: NetName=AGND Pin=C19-1
+Added Pin To Net: NetName=AGND Pin=C20-1
+Added Pin To Net: NetName=AGND Pin=C21-1
+Added Pin To Net: NetName=AGND Pin=C22-1
+Added Pin To Net: NetName=AGND Pin=C23-2
+Added Pin To Net: NetName=AGND Pin=C24-2
+Added Pin To Net: NetName=AGND Pin=C25-2
+Added Pin To Net: NetName=AGND Pin=C26-2
+Added Pin To Net: NetName=AGND Pin=C27-2
+Added Pin To Net: NetName=AGND Pin=C28-2
+Added Pin To Net: NetName=AGND Pin=C30-2
+Added Pin To Net: NetName=AGND Pin=C33-1
+Added Pin To Net: NetName=AGND Pin=C34-1
+Added Pin To Net: NetName=AGND Pin=C35-1
+Added Pin To Net: NetName=AGND Pin=C36-2
+Added Pin To Net: NetName=AGND Pin=C37-1
+Added Pin To Net: NetName=AGND Pin=C38-1
+Added Pin To Net: NetName=AGND Pin=C39-1
+Added Pin To Net: NetName=AGND Pin=C40-1
+Added Pin To Net: NetName=AGND Pin=C41-1
+Added Pin To Net: NetName=AGND Pin=C42-1
+Added Pin To Net: NetName=AGND Pin=C43-1
+Added Pin To Net: NetName=AGND Pin=C48-1
+Added Pin To Net: NetName=AGND Pin=C49-1
+Added Pin To Net: NetName=AGND Pin=L17-2
+Added Pin To Net: NetName=AGND Pin=R18-1
+Added Pin To Net: NetName=AGND Pin=R19-2
+Added Pin To Net: NetName=AGND Pin=U5-16
+Added Pin To Net: NetName=AGND Pin=U5-19
+Added Pin To Net: NetName=AGND Pin=U5-21
+Added Pin To Net: NetName=AGND Pin=U6-1
+Added Pin To Net: NetName=AGND Pin=U6-3
+Added Pin To Net: NetName=AGND Pin=U6-9
+Added Pin To Net: NetName=AGND Pin=U6-12
+Added Pin To Net: NetName=AGND Pin=U6-17
+Added Pin To Net: NetName=AGND Pin=U7-1
+Added Pin To Net: NetName=AGND Pin=U7-3
+Added Pin To Net: NetName=AGND Pin=U7-4
+Added Pin To Net: NetName=AGND Pin=U7-6
+Added Net: Name=AGND
+Added Member To Class: ClassName=Power Member=Component L17 220 ¦¸@100MHz
